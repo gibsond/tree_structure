@@ -1,0 +1,6 @@
+
+Daniel Gibson, 2009
+
+This repository contains code to implement a tree structure in both a postgresql database and in a web page.  It was used in an Appointment Booking application to contain a Service Provider's availability.
+
+The main class in the file is called TreeStructure and it uses class methods in addition to instance methods.  It also uses recursion to navigate sub-branches of the tree.
